@@ -23,6 +23,9 @@
 - [Roofing contractor in Scotch Plains](https://local-business-guides.github.io/hernandez-and-sons-roofing-scotch-plains/roofing-contractor-in-scotch-plains/): Need a roofing contractor in Scotch Plains? Get clear guidance for your roof and know what to ask before scheduling. Call Hernandez & Sons Roofing today.
 - [Best roofing contractor for Scotch Plains homes](https://local-business-guides.github.io/hernandez-and-sons-roofing-scotch-plains/best-roofing-contractor/): Looking for the best roofing contractor in Scotch Plains? Compare what matters, prepare your questions, and call Hernandez & Sons Roofing to talk.
 
+## Newsroom
+- [Hernandez & Sons Roofing Shares Local Guide in Video and Audio Formats](https://local-business-guides.github.io/hernandez-and-sons-roofing-scotch-plains/news/2026-11-09-hernandez-sons-roofing-shares-local-guide-in-video/): Hernandez & Sons Roofing has published a guide to Roofing Contractor Scotch Plains NJ, with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-09)
+
 ## Pages
 - [Roofing Contractor in Scotch Plains, New Jersey](https://local-business-guides.github.io/hernandez-and-sons-roofing-scotch-plains/): Get roofing guidance shaped around your home and needs from a local Scotch Plains contractor. Call +1908-529-0700.
 - [About Hernandez & Sons Roofing](https://local-business-guides.github.io/hernandez-and-sons-roofing-scotch-plains/about/): About Hernandez & Sons Roofing, Scotch Plains.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/hernandez-and-sons-roofing-scotch-plains/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/hernandez-and-sons-roofing-scotch-plains/news/rss.xml)
 - [Main resource site](https://hernandez-sons-roofing-scotch-plains.localbusinesses1.chatgpt.site)
